@@ -4,6 +4,13 @@ QueueMind is an AI-powered, rule-based queue optimization platform that simulate
 
 > ⚠️ **OpenAI integration is commented out** in this version to allow offline, monolithic server deployments without external API dependencies.
 
+## 📊 Live App - https://queuemindai.streamlit.app/
+
+## 📸 Demonstration Link
+
+[QueueMind - AI Demo](https://youtu.be/yb-K7yS-3fU)
+
+
 ---
 
 ## 📦 Features
@@ -106,9 +113,6 @@ The function `send_to_openai_for_summary()` uses GPT-4 to summarize recommendati
 - Clinics balancing walk-ins vs. appointments
 - Retail counters managing unexpected customer spikes
 
-## 📸 Demonstration Link
-
-[QueueMind - AI Demo](https://youtu.be/yb-K7yS-3fU)
 
 
 ## 🧠 AI Tools Mentioned
