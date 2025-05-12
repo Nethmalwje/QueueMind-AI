@@ -15,7 +15,8 @@ from state_manager import get_customers_served, load_total_queue_history, simula
 from predictor import generate_dummy_forecast, generate_prophet_forecast, predict_queue_length, predict_queue_trends
 from queue_simulator import generate_sample_data
 from wait_time_predictor import calculate_wait_times
-from queue_messages import generate_ai_recommendations, render_queue_predictions, send_to_openai_for_summary
+# , send_to_openai_for_summary
+from queue_messages import generate_ai_recommendations, render_queue_predictions
 from predictor import get_all_queue_forecasts, predict_wait_time, predict_queue_trends
 
 
