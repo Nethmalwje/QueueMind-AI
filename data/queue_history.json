@@ -1,0 +1,882 @@
+[
+  {
+    "timestamp": "2025-05-09T10:44:42.852176",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 0,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:45:13.688340",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 0,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:45:19.566137",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:45:20.905204",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:45:28.395035",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:45:34.551500",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:45:49.556269",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 1,
+      "Express Queue 3": 0,
+      "Queue A": 1,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:46:04.559147",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 0,
+      "Queue A": 0,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:46:13.701335",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 1,
+      "Express Queue 3": 0,
+      "Queue A": 2,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:46:19.557289",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 0,
+      "Queue A": 2,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:46:34.556391",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 2,
+      "Express Queue 3": 1,
+      "Queue A": 3,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:46:49.557930",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 0,
+      "Queue A": 4,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:47:04.553736",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 0,
+      "Queue A": 3,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:47:13.706332",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 0,
+      "Queue A": 4,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:47:19.559708",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 0,
+      "Queue A": 5,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:47:34.553481",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 0,
+      "Queue A": 4,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:47:49.555021",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 0,
+      "Queue A": 4,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:48:04.568338",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 0,
+      "Queue A": 3,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:48:13.706595",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 0,
+      "Queue A": 2,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:48:19.555639",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 0,
+      "Queue A": 4,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:48:34.551461",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 0,
+      "Queue A": 6,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:48:49.556190",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 0,
+      "Queue A": 8,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:49:04.553470",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 0,
+      "Queue A": 8,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:49:13.709584",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 2,
+      "Queue A": 8,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:49:19.562302",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 2,
+      "Queue A": 7,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:49:34.559884",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 4,
+      "Queue A": 7,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:49:49.558760",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 3,
+      "Queue A": 7,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:50:04.550705",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 3,
+      "Queue A": 7,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:50:13.695179",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 3,
+      "Queue A": 10,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:50:19.549991",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 2,
+      "Queue A": 10,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:50:34.551332",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 2,
+      "Queue A": 9,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:50:49.558561",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 2,
+      "Queue A": 10,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:00.422030",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 2,
+      "Queue A": 10,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:02.788512",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 2,
+      "Queue A": 12,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:02.856143",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 2,
+      "Queue A": 12,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:13.691287",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 4,
+      "Express Queue 3": 1,
+      "Queue A": 13,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:19.557878",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 3,
+      "Express Queue 3": 1,
+      "Queue A": 13,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:34.552602",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 0,
+      "Queue A": 12,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:51:49.549176",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 0,
+      "Queue A": 13,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:52:04.578540",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 0,
+      "Queue A": 13,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:52:13.688136",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 0,
+      "Queue A": 15,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:52:19.554357",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 0,
+      "Queue A": 15,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:52:25.179563",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 0,
+      "Queue A": 15,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:52:34.562982",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 1,
+      "Queue A": 15,
+      "Queue B": 1
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:52:49.560879",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 2,
+      "Queue A": 14,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:53:04.550236",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 3,
+      "Queue A": 14,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:53:13.698731",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 3,
+      "Queue A": 14,
+      "Queue B": 0
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:53:19.564145",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 3,
+      "Queue A": 14,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:53:34.570643",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 9,
+      "Express Queue 3": 2,
+      "Queue A": 15,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:53:49.592046",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 8,
+      "Express Queue 3": 1,
+      "Queue A": 15,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:54:04.554542",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 1,
+      "Queue A": 14,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:54:13.731551",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 3,
+      "Queue A": 13,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:54:19.604147",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 4,
+      "Queue A": 11,
+      "Queue B": 6
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:54:34.563608",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 4,
+      "Queue A": 11,
+      "Queue B": 6
+    }
+  },
+  {
+    "timestamp": "2025-05-09T10:54:49.567349",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 3,
+      "Queue A": 9,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:02:19.938816",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 5,
+      "Express Queue 3": 5,
+      "Queue A": 9,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:02:27.701803",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 4,
+      "Queue A": 8,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:02:34.938250",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 4,
+      "Queue A": 8,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:02:42.715195",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 4,
+      "Queue A": 9,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:02:49.943901",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 3,
+      "Queue A": 9,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:04.935516",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 6,
+      "Express Queue 3": 3,
+      "Queue A": 8,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:11.834973",
+    "queues": {
+      "Standard Queue 1": 0,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 5,
+      "Queue A": 9,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:13.695806",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 5,
+      "Queue A": 10,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:19.945746",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 8,
+      "Express Queue 3": 7,
+      "Queue A": 8,
+      "Queue B": 6
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:26.843449",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 8,
+      "Express Queue 3": 7,
+      "Queue A": 7,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:34.939076",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 8,
+      "Express Queue 3": 7,
+      "Queue A": 6,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:41.837335",
+    "queues": {
+      "Standard Queue 1": 1,
+      "Standard Queue 2": 7,
+      "Express Queue 3": 6,
+      "Queue A": 9,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:50.697708",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 9,
+      "Express Queue 3": 6,
+      "Queue A": 9,
+      "Queue B": 6
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:03:56.843870",
+    "queues": {
+      "Standard Queue 1": 2,
+      "Standard Queue 2": 9,
+      "Express Queue 3": 7,
+      "Queue A": 9,
+      "Queue B": 6
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:05.689069",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 10,
+      "Express Queue 3": 8,
+      "Queue A": 10,
+      "Queue B": 7
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:11.852449",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 10,
+      "Express Queue 3": 8,
+      "Queue A": 12,
+      "Queue B": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:13.694223",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 10,
+      "Express Queue 3": 8,
+      "Queue A": 14,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:20.696899",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 11,
+      "Express Queue 3": 9,
+      "Queue A": 14,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:26.841989",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 10,
+      "Queue A": 15,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:35.701295",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 11,
+      "Express Queue 3": 9,
+      "Queue A": 16,
+      "Queue B": 1
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:41.860356",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 10,
+      "Express Queue 3": 9,
+      "Queue A": 15,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:04:56.834113",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 10,
+      "Queue A": 14,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:05:11.840305",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 11,
+      "Express Queue 3": 9,
+      "Queue A": 14,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:05:13.694185",
+    "queues": {
+      "Standard Queue 1": 3,
+      "Standard Queue 2": 11,
+      "Express Queue 3": 9,
+      "Queue A": 14,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:05:13.725106",
+    "queues": {
+      "Standard Queue 1": 4,
+      "Standard Queue 2": 13,
+      "Express Queue 3": 9,
+      "Queue A": 15,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:05:26.843190",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 13,
+      "Express Queue 3": 9,
+      "Queue A": 14,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:05:41.845947",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 13,
+      "Express Queue 3": 9,
+      "Queue A": 13,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:05:56.841812",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 9,
+      "Queue A": 11,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:06:11.835720",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 9,
+      "Queue A": 12,
+      "Queue B": 4
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:06:13.707721",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 13,
+      "Express Queue 3": 9,
+      "Queue A": 12,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:06:13.744692",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 9,
+      "Queue A": 13,
+      "Queue B": 2
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:06:26.845113",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 10,
+      "Queue A": 11,
+      "Queue B": 3
+    }
+  },
+  {
+    "timestamp": "2025-05-09T11:06:41.835987",
+    "queues": {
+      "Standard Queue 1": 5,
+      "Standard Queue 2": 12,
+      "Express Queue 3": 11,
+      "Queue A": 11,
+      "Queue B": 2
+    }
+  }
+]
