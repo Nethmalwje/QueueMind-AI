@@ -107,7 +107,9 @@ The function `send_to_openai_for_summary()` uses GPT-4 to summarize recommendati
 - Retail counters managing unexpected customer spikes
 
 ## 📸 Demonstration Link
-Include screenshots of the dashboard here (if available):
+
+[QueueMind - AI Demo](https://youtu.be/yb-K7yS-3fU)
+
 
 ## 🧠 AI Tools Mentioned
 - GPT-4 (optional, disabled by default)
