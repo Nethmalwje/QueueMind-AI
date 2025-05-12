@@ -137,3 +137,4 @@ If you encounter any errors, particularly related to the historical data (`queue
 2. After deleting these files, restart the system, and it will regenerate fresh data for the queues and history.
 
 This should resolve any issues related to corrupted or outdated data in the system.
+but you should keep in mind this data is the backbone of our system..these file will be automatically created but erros will appear until then (no data-no predictions) keep reloading until the errors are gone..but now you have small ammount of data..predictions will be less accurate. this is an always a tradeoff.
