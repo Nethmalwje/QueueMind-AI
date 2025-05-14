@@ -6,6 +6,9 @@ QueueMind is an AI-powered, rule-based queue optimization platform that simulate
 
 ## 📊 Live App - https://queuemindai.streamlit.app/
 
+> ⚠️ ***If you see an error with the initial load off the link try refreshig few times,this happen we need data to predict and it takes few time to load the data (since this is hosted on a free server).***
+
+
 ## 📸 Demonstration Link
 
 [QueueMind - AI Demo](https://youtu.be/yb-K7yS-3fU)
